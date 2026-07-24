@@ -1,0 +1,33 @@
+拉美运营时空台｜GitHub Pages 公开发布步骤
+
+说明：
+当前 GitHub 连接已成功，但连接器没有提供创建仓库或写入文件的权限。
+因此只需要你在 GitHub 网页完成以下一次性操作。
+
+一、创建公开仓库
+1. 打开 https://github.com/new
+2. Repository name 填写：latam-weather-clock
+3. 选择 Public。
+4. 不要勾选 Add a README file、.gitignore 或 license。
+5. 点击 Create repository。
+
+二、上传本压缩包中的网站文件
+1. 在新仓库页面点击 “uploading an existing file”。
+2. 将本压缩包解压。
+3. 把解压文件夹内的全部内容拖入 GitHub 上传区域。
+   注意：需要上传文件夹内的内容，不要上传 ZIP 文件本身。
+4. 等文件上传完成，在页面底部点击 Commit changes。
+
+三、开启 GitHub Pages
+1. 打开仓库 Settings。
+2. 左侧选择 Pages。
+3. 在 Build and deployment 的 Source 中选择 GitHub Actions。
+4. 返回仓库的 Actions 页面，等待 Deploy GitHub Pages 变成绿色。
+
+公开网址格式：
+https://你的GitHub用户名.github.io/latam-weather-clock/
+
+完成后，把公开网址发给我。我会：
+1. 验证未登录状态可以正常访问。
+2. 更新 Windows 安装包中的网址。
+3. 返回新的公开版安装压缩包。
