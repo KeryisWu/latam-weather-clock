@@ -1,0 +1,18 @@
+{
+  "name": "拉美运营时空台",
+  "short_name": "拉美时空台",
+  "description": "巴西与墨西哥州级时区、实时时间及天气监测工具",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#071713",
+  "theme_color": "#071713",
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
